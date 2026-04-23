@@ -1,6 +1,6 @@
 Name: Aliza Farid
-Registration Number: [Your Registration Number]
-Section: [Your Section]
+Registration Number: SP26-ELC-009
+Section: Electronics and Computing 1A
 
 Why learning programming is important for me:
 
